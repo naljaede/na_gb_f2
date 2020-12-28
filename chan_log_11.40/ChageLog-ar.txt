@@ -1,0 +1,73 @@
+{"version_code":451517,"content":"
+<p>vتحديث جديد 11.30</p>
+
+<p>حصريا  النسخة تدعم كافة اجهزة الاندرويد وايضا يدعم اصدارت كيتكات 4.1.2 و 4.4.2 و 4.4.4 فما فوق</p>
+<p>حصريا  تم اضافة ميزة رسالة جماعية للمجموعات بطريقه جديده وسهلة</p>
+<p>حصريا  اضافة واجهات جديده ومن ضمنها واجهة One UI Design</p>
+<p>إضافة  ستايل افتراضي ليتناسب مع الوضع الليلي</p>
+<p>تحسين  زيادة عدد احرف الحاله الى اكثر من 700 حرف</p>
+<p>اصبح  بامكانك عمل اعادة توجيه للرسائل الى اكثر من 1000 شخص</p>
+<p>إضافة  ميزة نسخ النصوص من المحادثات تم تفعيلها تلقائيا</p>
+<p>إضافة  خيار تغييرات مستخدمين (الاضافات والخصائص)</p>
+<p>إضافة  خيار لتغير ستايل شاشة جهات الاتصال الجديدة</p>
+<p>إضافة  خيار تخصيص نغمة عند مشاهدة حالتك</p>
+<p>إضافة  خيار تخصيص نغمة عند تغيير الصورة الشخصية</p>
+<p>إضافة  خيار لتغير نغمة الرسائل الوارده والصادره داخل المحادثة</p>
+<p>إضافة  خيار لتغير نغمة بدء وتوقف التسجيل الصوتي داخل المحادثة</p>
+<p>تحسين  ميزة الترجمه</p>
+<p>ملاحظة ميزة الترجمه داخل المحادثات تحتاج الى تثبيت برنامج (مترجم جوجل)</p>
+<p>إضافة  ثيم افتراضي جديد (ليلي\نهاري)</p>
+<p>إضافة  ميزة اخفاء الرسائل الارشيفية (الشاشه الرئيسيه > الاسطر)</p>
+<p>إضافة  خيارات عديدة للزر العائم بداخل المحادثات (يمكنك تغير اللون واخفاء الزر)</p>
+<p>إضافة  تصاميم جديدة لستايل حالات انستجرام</p>
+<p>إضافة  ميزة انشاء دردشة فيديو جماعية (من تبويبة المكالمات ثم الضغط على الزر العائم اسفل زر حذف سجل المكالمات</p>
+<p>إضافة  اللغه الأرديه</p>
+<p>إضافة  تصميم جديد لطريقة اضافة حاله عبر ستايل انستجرام</p>
+<p>إضافة  تصميم جديد لستايلات بار التنقل السفلي</p>
+<p>إضافة  تصميم جديد للسؤال عند تفعيل خيارات (وضع الطيران، الوضع ليلي\نهاري)</p>
+<p>إضافة  تحريك الاسم تلقائيا في البار العلوي في حال كان طويل</p>
+<p>إضافة  زر الطيران سيعطي اشارة نبض في حال كان مفعل</p>
+<p>إضافة  خيارات الوان لشكل حالات الانستجرام</p>
+<p>إصلاح   مشكله عدم ظهور صورة بجانب فقاعه الوسائط في المجموعات</p>
+<p>إصلاح   عدم اختفاء زر الطيران والوضع ليلي\نهاري في صفحة المجموعات</p>
+<p>إصلاح   مشكلة الانهيار عند استخدام الرد التلقائي وجدولة الرسائل</p>
+<p>إصلاح   مشكلة تغيير ستايل المنصه السفليه عند الدخول لشاشة المحادثات ثم ستايل المنصه السفليه</p>
+<p>إصلاح   مشاكل بار التنقل السفلي مع واجهة اللغة العربية</p>
+<p>ملاحظة ميزة الترجمه داخل المحادثات تحتاج الى تثبيت برنامج (مترجم جوجل)</p>
+
+<p>New Update v11.30</p>
+
+<p>Exclusive The version Supports all Android devices and also supports Kitkat versions 4.1.2, 4.4.2 and 4.4.4 and above</p>
+<p>Exclusive A group message has beenAdded to groups in a new and easy way</p>
+<p>Exclusive One UI Design</p>
+<p>Added Default style to match the night mode</p>
+<p>improvement Increase the number of case characters to more than 700 characters</p>
+<p>had become You can forward messages to more than 1000 people</p>
+<p>Added The feature of transcribing texts from conversations was activated automatically</p>
+<p>Added Option User changesLog of NAWhatsApp</p>
+<p>Added Option to change the style of the new contacts screen</p>
+<p>Added Option to customize the tone when viewing your status</p>
+<p>Added Option to customize the tone when changing the profile picture</p>
+<p>Added Option to change the tone of incoming and outgoing messages inside Chats</p>
+<p>Added Option to change the start-stop tone for audio recording inside Chats</p>
+<p>Updated Translations</p>
+<p>NOTE In-conversations translate feature now requires (Google Translate) App to be installed</p>
+<p>Added New Default Theme (Light/Night)</p>
+<p>Added Hide archive messages feature (Home Screen > Rows)</p>
+<p>Added New styles for IG Story</p>
+<p>Added Many options for the floating button in the chats (you can change the color and hide the button)</p>
+<p>Added Navigation effects feature</p>
+<p>Added The advantage of creating a group video chat (from the Calls tab, then pressing the floating button below the Delete Call Log button</p>
+<p>Added New UI for adding a status from IG Story</p>
+<p>Added Urdu language</p>
+<p>Added New UI design for Bottom Bar Styles</p>
+<p>Added New UI for activating options (airplane mode, light/night mode)</p>
+<p>Added Animate name in header when it is too long</p>
+<p>Added Animate Airplane icon when turned ON to alert you</p>
+<p>Added Color options for IG Story elements</p>
+<p>Fixed Contact Pic not showing when sending media in groups</p>
+<p>Fixed Airplane and Light/Night mode icon not hiding in Groups tab</p>
+<p>Fixed Bottom bar styles not working correctly RTL</p>
+
+","url":"http://www.naljaede.com/2017/10/nawhatsapp.html"
+}
