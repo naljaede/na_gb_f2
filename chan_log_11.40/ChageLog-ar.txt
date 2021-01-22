@@ -1,5 +1,5 @@
-{"version_code":451517,"content":"
-<p>vتحديث جديد 11.45</p>
+{"version_code":451820,"content":"
+<p>vتحديث جديد 11.50</p>
 
 <p>ملاحظة التحديث غير مجرب على الاصدارات القديمة</p>
 <p>تحديث قاعد واتساب 2.20.205.16</p>
@@ -30,7 +30,7 @@
 <p>مزيد العديد من الامور الاخرى ونسيت ما هي</p>
 <p>استمتعوا واكتشفوا الجديد بأنفسكم!</p>
 
-<p>New Update v11.45</p>
+<p>New Update v11.50</p>
 
 <p>Note the update is not tested on old versions</p>
 <p>Base Update to 2.20.205.16</p>
