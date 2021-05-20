@@ -5,12 +5,12 @@
 
 <p>Base Update Updated to 2.21.4.22</p>
 <p>improvement Increase the number of case characters to more than 700 characters</p>
-<p>Added New options to download story (copy caption, share, etc.)</p>
+<p>Added New options to download story (copy caption/ share/ etc.)</p>
 <p>Added Quick translation feature within the conversation</p>
 <p>Added Themes Store Dark/Light mode automatically</p>
 <p>Added option to hide Privacy terms notice msg (Universal > Hide Privacy msg). You can hide it without accepting.</p>
 <p>Added translations for Voice changer options</p>
-<p>Moved/Fixed "Copy caption" from long press to download options</p>
+<p>Moved/Fixed (Copy caption) from long press to download options</p>
 <p>Fixed shop items crash</p>
 <p>Fixed contact name not showing clearly in caption mention</p>
 <p>Fixed themes wallpaper not applying on some phones</p>
