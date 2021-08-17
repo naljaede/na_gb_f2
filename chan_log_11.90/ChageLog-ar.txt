@@ -1,0 +1,36 @@
+{"version_code":452123,"content":"
+<p>vتحديث جديد 11.55</p>
+
+<p>تحديث قاعد واتساب إلى 2.21.4.22</p>
+<p>تحسين زيادة عدد احرف الحاله الى اكثر من 700 حرف</p>
+<p>إضافة خيارات جديدة لتنزيل الحالات (نسخ التسمية التوضيحية والمشاركة الخ.)</p>
+<p>إضافة اضافة ميزة الترجمه السريعه داخل المحادثه</p>
+<p>إضافة Themes Store Dark / Light mode تلقائيًا</p>
+<p>إضافة خيار لإخفاء إشعار شروط الخصوصية (الكل> إخفاء رسالة الخصوصية). يمكنك إخفاءه دون قبول.</p>
+<p>تم نقل / إصلاح نسخ التسمية التوضيحية من الضغط لفترة طويلة إلى خيارات التنزيل</p>
+<p>إصلاح اسم جهة اتصال ثابت لا يظهر بوضوح في التسمية التوضيحية</p>
+<p>إصلاح خلفية ثيمات ثابتة لا تنطبق على بعض الهواتف</p>
+<p>إصلاح إصلاح إدخال لا يأخذ لون الخلفية</p>
+<p>إصلاح النسخ الاحتياطي الكامل الثابت لا يعمل على Android 11+</p>
+<p>مزيد تحسين الترجمات الأخرى</p>
+<p>مزيد إصلاحات وتحسينات أخرى</p>
+
+<p>New Update v11.55</p>
+
+<p>Base Update Updated to 2.21.4.22</p>
+<p>improvement Increase the number of case characters to more than 700 characters</p>
+<p>Added New options to download story (copy caption/ share/ etc.)</p>
+<p>Added Quick translation feature within the conversation</p>
+<p>Added Themes Store Dark/Light mode automatically</p>
+<p>Added option to hide Privacy terms notice msg (Universal > Hide Privacy msg). You can hide it without accepting.</p>
+<p>Moved/Fixed (Copy caption) from long press to download options</p>
+<p>Fixed shop items crash</p>
+<p>Fixed contact name not showing clearly in caption mention</p>
+<p>Fixed themes wallpaper not applying on some phones</p>
+<p>Fixed Entry not taking background color</p>
+<p>Fixed full backup not working on Android 11+</p>
+<p>Misc Improved other translations</p>
+<p>Misc Other fixes and improvements</p>
+
+","url":"https://apk2.app/NAWhatsApp"
+}
