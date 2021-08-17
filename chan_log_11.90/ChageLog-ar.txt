@@ -1,5 +1,5 @@
-{"version_code":452123,"content":"
-<p>vتحديث جديد 11.55</p>
+{"version_code":451517,"content":"
+<p>vتحديث جديد 11.90</p>
 
 <p>تحديث قاعد واتساب إلى 2.21.4.22</p>
 <p>تحسين زيادة عدد احرف الحاله الى اكثر من 700 حرف</p>
@@ -15,7 +15,7 @@
 <p>مزيد تحسين الترجمات الأخرى</p>
 <p>مزيد إصلاحات وتحسينات أخرى</p>
 
-<p>New Update v11.55</p>
+<p>New Update v11.90</p>
 
 <p>Base Update Updated to 2.21.4.22</p>
 <p>improvement Increase the number of case characters to more than 700 characters</p>
