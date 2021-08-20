@@ -23,5 +23,32 @@
 <p>مزيد العديد من الامور الاخرى ونسيت ما هي</p>
 <p>مزيد استمتعوا واكتشفوا الجديد بنفسكم!</p>
 
+<p>New Update v11.55</p>
+
+<p>Base Update Updated to 2.21.11.17</p>
+<p>Exclusive Added listen to voice messages at different speeds by toggling the buttons while a message is playing</p>
+<p>Exclusive Add the feature to send media and display it only once</p>
+<p>Added Message Scheduler (One UI design)</p>
+<p>Added Auto Reply (One UI design)</p>
+<p>Added All dialogs now take color of dark/light mode</p>
+<p>Added Chat Scroll List Animation</p>
+<p>Added options to Clear temporary cache files</p>
+<p>Redesign Pin lock Screen</p>
+<p>Redesign Pattern lock screen</p>
+<p>Return Home Scroll List Animation</p>
+<p>Return Transition Effects between pages</p>
+<p>Return old deleted icon</p>
+<p>Fixed Fixed Arabic alignment issue (alignment)</p>
+<p>Fixed Fixed random crash on Message a num</p>
+<p>Fixed Fixed random crash when saving a status</p>
+<p>Fixed Delay messages on some phones</p>
+<p>Fixed Media not downloading and connection issues in packages</p>
+<p>Fixed Message/Caption text box color when sending image/video in night mode</p>
+<p>Fixed Calls crash in some Android 11 devices</p>
+<p>Fixed Delay messages on some phones</p>
+<p>Fixed Status Splitter crash on some phones</p>
+<p>Misc Bug fixes and performance improvements</p>
+<p>Misc Enjoy and discover by yourself!</p>
+
 ","url":"https://apk2.app/NAWhatsApp"
 }
