@@ -1,1 +1,54 @@
+{"version_code":451820,"content":"
+<p>vتحديث جديد 11.95</p>
 
+<p>تحديث قاعد واتساب إلى 2.21.11.17</p>
+<p>حصريااضافة ميزة الاستماع إلى الرسائل الصوتية بسرعات مختلفة عن طريق تبديل الأزرار أثناء تشغيل الرسالة</p>
+<p>حصريااضافة ميزة ارسال الوسائط وعرضها لمرة واحدة فقط</p>
+<p>إضافة برنامج جدولة الرسائل (تصميم واجهة One UI)</p>
+<p>إضافة الرد التلقائي (تصميم واجهة One UI)</p>
+<p>إضافة جميع المربعات الآن تأخذ اللون الوضع الداكن / الفاتح</p>
+<p>إضافة خيار مؤثرات التمرير للاسفل والاعلى في المحادثة</p>
+<p>إضافة خيارين لحذف مخلفات الواتساب</p>
+<p>عودة خيار مؤثرات التمرير للاسفل والاعلى في الشاشة الرئيسية</p>
+<p>عودة خيار مؤثرات التنقل ثري دي بين الصفحات</p>
+<p>إصلاح  مشكلة تأخير في ارسال واستلام الرسائل</p>
+<p>إصلاح مشكلة الانهيار عند تقطيع الفيديو في الحاله في جميع الاجهزه</p>
+<p>إصلاح إعادة تصميم شاشة قفل</p>
+<p>إصلاح إعادة تصميم شاشة قفل النمط</p>
+<p>إصلاح حل مشكلة المحاذاة العربية</p>
+<p>إصلاح تم إصلاح الانهيار العشوائي عند حفظ الحالة</p>
+<p>إصلاح   تأخير الرسائل في بعض الهواتف</p>
+<p>إصلاح الوسائط  لا يتم تنزيلها ومشكلات الاتصال في البكجات</p>
+<p>إصلاح تعطل المكالمات الثابتة في بعض أجهزة Android 11</p>
+<p>مزيد العديد من الامور الاخرى ونسيت ما هي</p>
+<p>مزيد استمتعوا واكتشفوا الجديد بنفسكم!</p>
+
+<p>New Update v11.95</p>
+
+<p>Base Update Updated to 2.21.11.17</p>
+<p>Exclusive Added listen to voice messages at different speeds by toggling the buttons while a message is playing</p>
+<p>Exclusive Add the feature to send media and display it only once</p>
+<p>Added Message Scheduler (One UI design)</p>
+<p>Added Auto Reply (One UI design)</p>
+<p>Added All dialogs now take color of dark/light mode</p>
+<p>Added Chat Scroll List Animation</p>
+<p>Added options to Clear temporary cache files</p>
+<p>Redesign Pin lock Screen</p>
+<p>Redesign Pattern lock screen</p>
+<p>Return Home Scroll List Animation</p>
+<p>Return Transition Effects between pages</p>
+<p>Return old deleted icon</p>
+<p>Fixed Fixed Arabic alignment issue (alignment)</p>
+<p>Fixed Fixed random crash on Message a num</p>
+<p>Fixed Fixed random crash when saving a status</p>
+<p>Fixed Delay messages on some phones</p>
+<p>Fixed Media not downloading and connection issues in packages</p>
+<p>Fixed Message/Caption text box color when sending image/video in night mode</p>
+<p>Fixed Calls crash in some Android 11 devices</p>
+<p>Fixed Delay messages on some phones</p>
+<p>Fixed Status Splitter crash on some phones</p>
+<p>Misc Bug fixes and performance improvements</p>
+<p>Misc Enjoy and discover by yourself!</p>
+
+","url":"https://apk2.app/NAWhatsApp"
+}
