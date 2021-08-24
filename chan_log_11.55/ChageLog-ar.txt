@@ -1,5 +1,5 @@
 {"version_code":451820,"content":"
-<p>vتحديث جديد 11.95</p>
+<p>vتحديث جديد 11.90</p>
 
 <p>تحديث قاعد واتساب إلى 2.21.11.17</p>
 <p>حصريااضافة ميزة الاستماع إلى الرسائل الصوتية بسرعات مختلفة عن طريق تبديل الأزرار أثناء تشغيل الرسالة</p>
@@ -23,7 +23,7 @@
 <p>مزيد العديد من الامور الاخرى ونسيت ما هي</p>
 <p>مزيد استمتعوا واكتشفوا الجديد بنفسكم!</p>
 
-<p>New Update v11.95</p>
+<p>New Update v11.90</p>
 
 <p>Base Update Updated to 2.21.11.17</p>
 <p>Exclusive Added listen to voice messages at different speeds by toggling the buttons while a message is playing</p>
