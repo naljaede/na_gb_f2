@@ -1,1 +1,24 @@
 
+{"version_code":451820,"content":"
+<p>vتحديث جديد 11.95</p>
+
+<p>حصريا النسخة مجربة على اصدار  اندرويد 4.4.2  فما فوق</p>
+<p>إضافة تجاوز المشاهدة لمرة واحدةامكانية مشاهدة الصور والفيديو لعدد غير محدود</p>
+<p>عودة ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</p>
+<p>إصلاح مشكلة انهيار التطبيق في بعض الاجهزة ذات الاصدارات القديمة</p>
+<p>إصلاح ارسال اكثر من 30 صورة وفيديو من المعرض</p>
+<p>إصلاحرقم صفر 0 لا يظهر في شاشة القفل في بعض الاجهزة</p>
+<p>مزيد إصلاحات وتحسينات أخرى</p>
+
+<p>New Update v11.95</p>
+
+<p>Exclusively Tested version on Android 4.4.2 and above</p>
+<p>Added Anti-View Once You can watch "view once" images/videos unlimited times</p>
+<p>Return Showing View Messages sent By when Click on More Contacts in Group Profile</p>
+<p>Fixed  Crash in some devices with old versions</p>
+<p>Fixed Sending more than 30 media from galelry</p>
+<p>Fixed Number 0 not showing on lock screen on some phones</p>
+<p>Misc Bug fixes and performance improvements</p>
+
+","url":"https://apk2.app/NAWhatsApp"
+}
