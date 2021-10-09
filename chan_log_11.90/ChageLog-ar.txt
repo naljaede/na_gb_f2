@@ -1,4 +1,3 @@
-
 {"version_code":451820,"content":"
 <p>vتحديث جديد 11.95</p>
 
@@ -13,7 +12,7 @@
 <p>New Update v11.95</p>
 
 <p>Exclusively Tested version on Android 4.4.2 and above</p>
-<p>Added Anti-View Once You can watch "view once" images/videos unlimited times</p>
+<p>Added Anti-View Once You can watch view once images/videos unlimited times</p>
 <p>Return Showing View Messages sent By when Click on More Contacts in Group Profile</p>
 <p>Fixed  Crash in some devices with old versions</p>
 <p>Fixed Sending more than 30 media from galelry</p>
