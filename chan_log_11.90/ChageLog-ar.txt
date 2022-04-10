@@ -1,5 +1,5 @@
 {"version_code":452025,"content":"
-<p>vتحديث جديد 13</p>
+<p>vتحديث جديد 12.10</p>
 <p>تحديث قاعد واتساب 2.22.2.73</p>
 <p>حصريااضافة خيار حفظ الميديا عند تفعيل خيار عدم الحقظ في الاستديو</p>
 <p>إضافةإعدادات الخصوصية الجديدة  لاستثناء - اخر ظهور وصورة الملف الشخصي والأخبار والحالة</p>
@@ -18,7 +18,7 @@
 <p>مزيد من تحسين ضد الحظر</p>
 <p>مزيد من الإصلاحات وتحسينات أخرى</p>
 
-<p>New Update v13</p>
+<p>New Update v12.10</p>
 
 <p>Base Update Updated to 2.22.2.73 - Play Store</p>
 <p>Exclusive Save to Gallery option when Media Visibility is turned off</p>
